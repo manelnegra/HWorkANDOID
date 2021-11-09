@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">HworkArranger</string>
+    <string name="emailText">Email</string>
+    <string name="passwordText">Password</string>
+    <string name="submitButton">Valider</string>
+    <string name="titleText">Organisez vos tâches ménagères</string>
+    <string name="cnxButton">SignIn</string>
+    <string name="registerButton">SignUp</string>
+    <string name="regisButton">Inscrivez-vous Par Ici</string>
+    <string name="nomText">Nom</string>
+    <string name="prenomText">Prenom</string>
+    <string name="naissanceChefText">Jour naissance</string>
+    <string name="confPassChefText">Confirm password</string>
+    <string name="nextChefRegisButton">Suivant</string>
+    <string name="sexText">Sexe</string>
+    <string name="ajoutMemberButton">Ajouter</string>
+    <string name="exitAjoutMemberButton">Pas d autre membre</string>
+    <string name="helloChefText">Bienvenue</string>
+    <string name="affectTacheButton">affectez les tâches aux membres</string>
+    <string name="consultListMemberButton">Consultez la liste des membres</string>
+    <string name="addMemberButton">Ajoutez un nouveau membre</string>
+    <string name="consultCalendarButton">Consultez le calendrier des tâches</string>
+</resources>
